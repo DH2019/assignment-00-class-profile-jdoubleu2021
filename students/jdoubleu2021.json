@@ -3,12 +3,12 @@
   "lastName": "Whitehead",
   "nickName": "Junior",
   "privateName": false,
-  "picture": "images\jdoubleu2021.jpg",
+  "picture": "images/jdoubleu2021.jpg",
   "privatePicture": false,
   "email": "jackson.whitehead@mail.utoronto.ca",
   "privateEmail": false,
   "github": "jdoubleu2021",
   "privateGithub": false,
   "superpower" : "Time Travel and Photographic Memory",
-  "academicinterests": "Graduate this year!"
+  "academicinterests": "To graduate this year!"
 }
